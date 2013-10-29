@@ -1,0 +1,75 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1020" measuredH="524" mockupW="704" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="556" y="14" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone4</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="582" y="113" w="26" h="27" measuredW="31" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3C</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="602" y="113" w="209" h="-1" measuredW="61" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>L%20Todos</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="582" y="140" w="229" h="27" measuredW="211" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Hechas%2C%20Todo%2C%20Pendientes</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="583" y="417" w="228" h="27" measuredW="192" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C%2C%2C</hrefs>
+        <selectedIndex>-1</selectedIndex>
+        <text>+%2C%20A%7CZ%2C%20%3Co%3E%2C%20L%2C%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="597" y="182" w="200" h="63" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nota1%09%20%20%20ESCOM%20%20%2012%3A00AM%0AM%F3viles%27%20expo%0A%09%09%09%20%20%20%20%20%20%20%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="597" y="260" w="200" h="63" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nota2%09%20%20%20ESCOM%20%20%2010%3A00AM%0ATalk%20to%20Principal%0A%09%09%09%20%20%20%20%20%20%20%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::VCurly" x="797" y="182" w="185" h="218" measuredW="180" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <size>18</size>
+        <text>Aqu%ED%20se%20muestran%20todas%20tus%20notas</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Arrow" x="497" y="323" w="184" h="92" measuredW="150" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::StickyNote" x="316" y="260" w="181" h="171" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Esta%20es%20la%20barra%20de%20opciones%2C%20en%20ella%20podr%E1s%0Acrear%20una%20nota%20o%20lista%20nueva%2C%20as%ED%20como%20consultar%20el%20mapa%20para%20ver%20todos%20tus%20lugares%20con%20pendientes%20y%20muchas%20opciones%20m%E1s%21%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Arrow" x="803" y="145" w="92" h="10" measuredW="150" measuredH="100" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="895" y="120" w="125" h="66" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderColor>2848996</borderColor>
+        <state>up</state>
+        <text>Filtra%20tus%20notras%20como%20m%E1s%20lo%20necesites%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
